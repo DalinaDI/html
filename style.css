@@ -1,0 +1,78 @@
+body {
+	background-color: #cad5db;
+	}
+.red {
+	color: red;
+	}
+.green {
+	color: green;
+	}
+.blue {
+	color: blue;
+	}
+.yellow {
+	color: yellow;
+	}
+.pink {
+	color: pink;
+	}
+.orange {
+	color: orange;
+	}
+	
+table {
+   border-collapse: collapse;
+   }
+ 
+th {
+  padding: 18px;
+}
+ 
+td {
+  padding: 18px;
+}
+ 
+th,
+td {
+  border: solid 1px white;
+}
+ 
+tr {
+  background-color: #EDEDED;
+}
+ 
+ 
+#heading {
+  background-color: orange;
+  color: blue;
+} 
+h2 {
+ 	color: blue;
+ 	}
+ 	
+ 	
+.main_container {
+     width: 1000px;
+     margin: 0 auto;
+             
+      }
+      	
+
+nav {
+  display: inline-block;
+  width: 300px;
+  padding: 0 8px 0 0;
+  border-right: 1px solid;
+  margin-bottom: 8px;
+
+      }
+ 
+
+aside {
+  display: inline-block;
+  width: 600px;
+  vertical-align: top;
+  padding: 0 0 0 8px;
+  border: 2px solis
+}
+ 
